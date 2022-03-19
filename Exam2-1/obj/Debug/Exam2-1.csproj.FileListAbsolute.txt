@@ -1,0 +1,10 @@
+D:\Project\Examination\Exam2-1\Exam2-1\obj\Debug\Exam2-1.csprojAssemblyReference.cache
+D:\Project\Examination\Exam2-1\Exam2-1\obj\Debug\Exam2_1.Form1.resources
+D:\Project\Examination\Exam2-1\Exam2-1\obj\Debug\Exam2_1.Properties.Resources.resources
+D:\Project\Examination\Exam2-1\Exam2-1\obj\Debug\Exam2-1.csproj.GenerateResource.cache
+D:\Project\Examination\Exam2-1\Exam2-1\obj\Debug\Exam2-1.csproj.CoreCompileInputs.cache
+D:\Project\Examination\Exam2-1\Exam2-1\bin\Debug\Exam2-1.exe.config
+D:\Project\Examination\Exam2-1\Exam2-1\bin\Debug\Exam2-1.exe
+D:\Project\Examination\Exam2-1\Exam2-1\bin\Debug\Exam2-1.pdb
+D:\Project\Examination\Exam2-1\Exam2-1\obj\Debug\Exam2-1.exe
+D:\Project\Examination\Exam2-1\Exam2-1\obj\Debug\Exam2-1.pdb
